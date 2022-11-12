@@ -8,7 +8,7 @@ The game was inspired by a Covid19 lockdowns and staying safe during the pandemi
 In this game you have your character, who will run away from viruses, and if your character is caught by a virus, you are infected, and have to try again to stay safe. If you make two viruses collide, one of them dissapiar, and you win, when there is only one left.
 That was the basic project i had to do in order to get a good grate for my work... But.
 
-I`ve fulfilled the requirements, and it just didn`t seem right to me to stay seated and to do nothing. The deadline was in a week. So...
+I've fulfilled the requirements, and it just didn`t seem right to me to stay seated and to do nothing. The deadline was in a week. So...
 
 I thought, how would I change the game for myself to enjoy? the idea was a great time killer, so it needed a few touches. So it got some.
 
